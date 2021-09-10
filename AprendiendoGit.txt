@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Creacion de Daniel Pulido
+=======
+Creacion de text
+>>>>>>> text
 
 primer Linea
 segunda linea
@@ -8,5 +12,8 @@ Nueva linea
 Utilizando otra rama- feature
 
 Linea despues de la combianacion de ramas
+
+linea text
+
 
 
