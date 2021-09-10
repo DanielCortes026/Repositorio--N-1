@@ -2,7 +2,6 @@
 Creacion de Daniel Pulido
 =======
 Creacion de text
->>>>>>> text
 
 primer Linea
 segunda linea
