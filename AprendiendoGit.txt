@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 Creacion de Daniel Pulido
-=======
 Creacion de text
 
 primer Linea
